@@ -1,4 +1,4 @@
-# Steam-F95Zone-Search
+# Steam → F95Zone Search
 A lightweight Tampermonkey userscript that adds a dedicated F95Zone search button to Steam Store and Community Hub pages, compatible with SteamDB and CS.Rin extensions.
 
 ### 🚀 Features
