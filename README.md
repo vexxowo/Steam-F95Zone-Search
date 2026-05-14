@@ -7,9 +7,18 @@ A lightweight Tampermonkey userscript that adds a dedicated F95Zone search butto
 * **UI Consistency**: The button is specifically sized and spaced to align perfectly with other popular extensions.
 
 ### 🛠 Installation
-1. Ensure you have a userscript manager installed (like Tampermonkey or Violentmonkey).
-2. Click on the `steam-f95zone-search.user.js` file in this repository.
-3. Click the **Raw** button.
+To use this script, you need a userscript manager installed in your browser.
+
+1. **Install a Userscript Manager:**
+   - [Violentmonkey](https://violentmonkey.github.io/) (Recommended)
+   - [Tampermonkey](https://www.tampermonkey.net/)
+
+2. **Install the Script:**
+   - Click the link below to prompt the installation:
+   - **[Click here to install Steam-F95Zone-Search](https://github.com/vexxowo/Steam-F95Zone-Search/raw/refs/heads/main/steam-f95zone-search.user.js)**
+
+3. **Confirm Installation:**
+   - Your browser extension will open a new tab. Click **Install** to finish.
 
 ### 📝 Credits & Attribution
 * **Development**: Created with Claude and Gemini.
