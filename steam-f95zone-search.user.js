@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Steam → F95Zone Search
 // @namespace    http://tampermonkey.net/
-// @version      2.4
+// @version      2.5
 // @description  Adds an F95Zone icon button in Steam's game nav bar.
 // @author       vexxowo (with Claude & Gemini, inspired by FunkyJustin)
 // @match        https://store.steampowered.com/app/*
 // @match        https://steamcommunity.com/app/*
 // @icon         https://f95zone.to/favicon.ico
+// @updateURL    https://raw.githubusercontent.com/vexxowo/Steam-F95Zone-Search/main/steam-f95zone-search.user.js
+// @downloadURL  https://raw.githubusercontent.com/vexxowo/Steam-F95Zone-Search/main/steam-f95zone-search.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -41,7 +43,7 @@
         btn.title     = 'View on F95Zone';
         btn.className = 'f95zone-btn ' + targetLink.className;
         
-        // Settings for 46px width and 4px gap to match your layout
+        // Consistent 46px width and 4px margin for UI alignment
         btn.style.cssText = `
             height: ${h}px !important;
             width: 46px !important;
@@ -61,7 +63,6 @@
         img.style.cssText = 'vertical-align: middle; pointer-events: none;';
         btn.appendChild(img);
 
-        // Inserts directly to the left of the found target button
         navBar.insertBefore(btn, targetLink);
         return true;
     }
