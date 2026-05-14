@@ -12,6 +12,6 @@ UI Consistency: The button is specifically sized and spaced to align perfectly w
 3. Click the **Raw** button.
 
 ### 📝 Credits & Attribution
-* **Development**: Collaboratively refined by Claude and Gemini.
+* **Development**: Created with Claude and Gemini.
 
 * **Inspiration**: This script was inspired by [FunkyJustin's Userscripts-collection](https://github.com/FunkyJustin/Userscripts-collection/blob/main/F95Zone%2C%20Ryuugames%2C%20and%20DLsite%20Search%20Buttons%20for%20Steam.user.js).
