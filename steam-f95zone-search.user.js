@@ -2,7 +2,7 @@
 // @name         Steam → F95Zone Search
 // @namespace    http://tampermonkey.net/
 // @version      2.5
-// @description  Adds an F95Zone icon button in Steam's game nav bar.
+// @description  Adds a dedicated F95Zone search button to Steam Store and Community Hub pages
 // @author       vexxowo (with Claude & Gemini, inspired by FunkyJustin)
 // @match        https://store.steampowered.com/app/*
 // @match        https://steamcommunity.com/app/*
