@@ -7,6 +7,7 @@
 // @match        https://store.steampowered.com/app/*
 // @match        https://steamcommunity.com/app/*
 // @icon         https://f95zone.to/favicon.ico
+// @license      MIT
 // @updateURL    https://raw.githubusercontent.com/vexxowo/Steam-F95Zone-Search/main/steam-f95zone-search.user.js
 // @downloadURL  https://raw.githubusercontent.com/vexxowo/Steam-F95Zone-Search/main/steam-f95zone-search.user.js
 // @grant        none
