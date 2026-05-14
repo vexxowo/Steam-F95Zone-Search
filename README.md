@@ -14,7 +14,6 @@ To use this script, you need a userscript manager installed in your browser.
    - [Tampermonkey](https://www.tampermonkey.net/)
 
 2. **Install the Script:**
-   - Click the link below to prompt the installation:
    - **[Click here to install Steam-F95Zone-Search](https://github.com/vexxowo/Steam-F95Zone-Search/raw/refs/heads/main/steam-f95zone-search.user.js)**
 
 3. **Confirm Installation:**
