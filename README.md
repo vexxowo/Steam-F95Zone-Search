@@ -1,5 +1,7 @@
 # Steam → F95Zone Search
-A lightweight Tampermonkey userscript that adds a dedicated F95Zone search button to Steam Store and Community Hub pages, compatible with SteamDB extension and CS.Rin userscript.
+
+> [!WARNING]
+> **Content Advisory:** This userscript links to F95Zone, which contains Adult (NSFW) content. By using this script, you acknowledge that you are of legal age to access such content in your jurisdiction.
 
 ### 🚀 Features
 * **Direct Integration**: Adds a search icon directly into the Steam navigation bar.
