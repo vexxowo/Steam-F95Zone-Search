@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.5
 // @description  Adds a dedicated F95Zone search button to Steam Store and Community Hub pages
-// @author       vexxowo (with Claude & Gemini, inspired by FunkyJustin)
+// @author       vexxowo
 // @match        https://store.steampowered.com/app/*
 // @match        https://steamcommunity.com/app/*
 // @icon         https://f95zone.to/favicon.ico
