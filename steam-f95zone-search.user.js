@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam → F95Zone Search
 // @namespace    http://tampermonkey.net/
-// @version      2.5
+// @version      1.0
 // @description  Adds a dedicated F95Zone search button to Steam Store and Community Hub pages
 // @author       vexxowo
 // @match        https://store.steampowered.com/app/*
