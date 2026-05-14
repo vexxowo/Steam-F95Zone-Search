@@ -2,9 +2,9 @@
 A lightweight Tampermonkey userscript that adds a dedicated F95Zone search button to Steam Store and Community Hub pages, compatible with SteamDB and CS.Rin extensions.
 
 ### 🚀 Features
-Direct Integration: Adds a search icon directly into the Steam navigation bar.
+* **Direct Integration**: Adds a search icon directly into the Steam navigation bar.
 
-UI Consistency: The button is specifically sized and spaced to align perfectly with other popular extensions.
+* **UI Consistency**: The button is specifically sized and spaced to align perfectly with other popular extensions.
 
 ### 🛠 Installation
 1. Ensure you have a userscript manager installed (like Tampermonkey or Violentmonkey).
