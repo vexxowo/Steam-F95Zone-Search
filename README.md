@@ -21,6 +21,20 @@ To use this script, you need a userscript manager installed in your browser.
 3. **Confirm Installation:**
    - Your browser extension will open a new tab. Click **Install** to finish.
 
+### 🔒 Permissions & Security
+
+* This script utilizes GM_xmlhttpRequest to improve search accuracy and integration.
+
+   * **Why is this needed?**: The script fetches a temporary session token directly from f95zone.to. This allows the script to perform searches or retrieve data as if you were browsing the site directly, ensuring results are up-to-date.
+
+   * **What data is accessed?**: The script only communicates with f95zone.to. It does not send your data to any third-party servers.
+
+   * **Permissions required**:
+
+       * **@grant GM_xmlhttpRequest**: Allows the script to make requests to a different domain (Cross-Origin).
+
+       * **@connect f95zone.to**: Restricts the script's communication solely to the F95Zone domain for your security.
+
 ### 📝 Credits & Attribution
 * **Development**: Created with Claude and Gemini.
 
